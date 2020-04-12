@@ -1,19 +1,6 @@
-![](http://i.imgur.com/wYi2CkD.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcartoon-cute-spider-in-hat-isolated-on-white-vector-15961313&psig=AOvVaw1yyWq-b0eWMVmKnWGgVIh5&ust=1586802092285000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDxpu_A4-gCFQAAAAAdAAAAABBJ)
 
 
 # Overview
 
-This is an open source, multi-threaded website crawler written in Python. There is still a lot of work to do, so feel free to help out with development.
-
-***
-
-Note: This is part of an open source search engine. The purpose of this tool is to gather links **only**. The analytics, data harvesting, and search algorithms are being created as separate programs. 
-
-### Links
-
-- [Support thenewboston](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+This is an open source, multi-threaded website crawler written in Python. There is still a lot of work to do..
