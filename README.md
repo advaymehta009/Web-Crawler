@@ -1,3 +1,6 @@
-# Web-Crawler
-News and Information Websites Crawler
-https://i.imgur.com/mCobatL.jpeg
+![](https://i.imgur.com/mCobatL.jpeg)
+
+
+# Overview
+
+This is an open source, multi-threaded website crawler written in Python. There is still a lot of work to do..
